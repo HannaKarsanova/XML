@@ -1,1 +1,10 @@
-
+<ID> Json </ID>
+<Title> What?Where?When? </Title>
+<Severity> "Medium </Severity>
+<Priority> High </Priority>
+<Precondition> Preparation reproduce </Precondition>
+<Environment> Devices </Environment>
+<STR> Steps to reproduce </STR>
+<ER> Expected result </ER>
+<AR> Actual Result </ER>
+<Attachment> link </Attachment>
