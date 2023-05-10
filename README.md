@@ -7,11 +7,13 @@ XML
 # 5. **Закоммитить файл. ** - *git commit -m «new.xml»*
 # 6. **Отправить файл на внешний GitHub репозиторий. **- *git push*
 # 7. **Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.** - *cat > new.xml*
+'''
 - <?xml version="1.0" encoding="UTF-8"?>
 - <fullName> Hanna Karsanova </fullName>
 - <age>29</age>
 - <numberOfPets>2</numberOfPets>
 - <futureDesireSalary>3000</futureDesireSalary> 
+'''
 # 8. **Отправить изменения на внешний репозиторий. **- *git commit -a -m «new.xml»     git push*
 # 9. **Создать файл preferences.xml**  - *touch preferences.xml*
 # 10. **В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML. **-* cat > preferences.xml*
